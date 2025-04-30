@@ -1,4 +1,4 @@
-👋 E aí! Bem-vindo ao meu portfólio :)
+👋 Eae! Bem-vindo ao meu portfólio :)
 Esse aqui é o meu portfólio pessoal. Fiz com carinho pra mostrar um pouco do que sei fazer com programação, principalmente na área de desenvolvimento web. Se quiser dar uma olhada, fuçar no código ou até mandar sugestões, fica à vontade!
 
 🌐 Sobre o projeto
