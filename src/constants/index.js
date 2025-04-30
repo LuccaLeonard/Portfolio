@@ -58,7 +58,7 @@ export const projectData = [
     titulo: "Meu Portfólio",
     descricao:
       "Este é meu portfólio pessoal desenvolvido com ReactJS e estilizado com TailwindCSS, onde apresento meus principais projetos, habilidades e formas de contato",
-    link: "https://github.com/LuccaLeonard/TaskManager",
+    link: "https://github.com/LuccaLeonard/Portfolio",
     technologies: ["ReactJs", "Tailwind"],
   },
 ];
