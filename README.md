@@ -1,7 +1,9 @@
 👋 Eae! Bem-vindo ao meu portfólio :)
+<br>
 Esse aqui é o meu portfólio pessoal. Fiz com carinho pra mostrar um pouco do que sei fazer com programação, principalmente na área de desenvolvimento web. Se quiser dar uma olhada, fuçar no código ou até mandar sugestões, fica à vontade!
 
 🌐 Sobre o projeto
+<br>
 Esse portfólio foi feito usando React + Tailwind. Ele tem algumas seções como sobre mim, projetos, e contato. Tudo bem simples, direto ao ponto e, claro, responsivo — pra funcionar bonitinho no celular também.
 
 🛠️ Tecnologias que usei: <br>
