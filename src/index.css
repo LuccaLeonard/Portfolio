@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif; 
+    color: #f3f4f6;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+::-webkit-scrollbar-track{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+::-webkit-scrollbar-thumb{
+    background: rgba(196, 111, 0, 0.74);
+}
