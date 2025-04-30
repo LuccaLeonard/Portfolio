@@ -4,30 +4,38 @@ Esse aqui é o meu portfólio pessoal. Fiz com carinho pra mostrar um pouco do q
 🌐 Sobre o projeto
 Esse portfólio foi feito usando React + Tailwind. Ele tem algumas seções como sobre mim, projetos, e contato. Tudo bem simples, direto ao ponto e, claro, responsivo — pra funcionar bonitinho no celular também.
 
-🛠️ Tecnologias que usei:
+🛠️ Tecnologias que usei: <br>
 Reactjs
+<br>
 TailwindCSS
+<br>
 JavaScript (claro!)
+<br>
 Um toque de criatividade ✨
+<br>
 
 💻 Quer rodar o projeto aí na sua máquina?
 Moleza! Segue o passo a passo:
 
 Passo 1:
+<br>
 Clona o repositório dado o comando:
 git clone https://github.com/LuccaLeonard/Portfolio.git
 
 
 Passo 2:
+<br>
 Entra na pasta do projeto:
 cd portfolio
 
 
 Passo 3:
+<br>
 Instala as dependências:
 npm install
 
-
+Passo 4:
+<br>
 Roda o projeto em modo dev:
 npm run dev
 
