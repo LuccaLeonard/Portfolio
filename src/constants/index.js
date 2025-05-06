@@ -1,5 +1,6 @@
 import projeto1 from "../assets/TaskManager.png";
 import projeto2 from "../assets/Portifolio.png"
+import projeto3 from "../assets/QuizJS-1.0.png"
 
 export const EXPERIENCE = [
   {
@@ -61,4 +62,12 @@ export const projectData = [
     link: "https://github.com/LuccaLeonard/Portfolio",
     technologies: ["ReactJs", "Tailwind"],
   },
+  {
+    id: 3,
+    image: projeto3,
+    titulo: "QuizJS - v1.0",
+    descricao: "Essa é a versão 1.0 de uma ideia que tive para criar um quiz interativo com JavaScript, focado em testar conhecimentos básicos sobre a linguagem. O projeto apresenta uma interface simples e funcional, com perguntas de múltipla escolha que avaliam noções introdutórias de JavaScript. O objetivo principal foi praticar manipulação do DOM, eventos e lógica de verificação de respostas.",
+    link: "https://github.com/LuccaLeonard/QuizJS-1.0",
+    technologies: ["HTML", "CSS", "JavaScript"]
+  }
 ];
